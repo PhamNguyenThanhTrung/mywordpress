@@ -11,11 +11,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamnguyenthanhtrung.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 Oct 2022 18:43:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 00:41:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Classic Watch bởi PhamNguyenThanhTrung		</title>
+		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/#comment-2</link>
+
+		<dc:creator><![CDATA[PhamNguyenThanhTrung]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 23:37:21 +0000</pubDate>
+		<guid isPermaLink="false">https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=product&#038;p=795#comment-2</guid>
+
+					<description><![CDATA[great]]></description>
+			<content:encoded><![CDATA[<p>great</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

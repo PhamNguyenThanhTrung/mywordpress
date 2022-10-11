@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamnguyenthanhtrung.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 Oct 2022 18:43:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 00:41:36 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,17 +20,15 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Classic Watch</title>
-		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/</link>
-					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/#respond</comments>
+		<title>CurcuminMe 60 caps  Probiotic for Women</title>
+		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/curcuminme-60-caps-probiotic-for-women/</link>
+					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/curcuminme-60-caps-probiotic-for-women/#respond</comments>
 		
 		<dc:creator><![CDATA[PhamNguyenThanhTrung]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 18:40:11 +0000</pubDate>
-				<guid isPermaLink="false">https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=product&#038;p=795</guid>
+		<pubDate>Mon, 10 Oct 2022 23:53:38 +0000</pubDate>
+				<guid isPermaLink="false">https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=product&#038;p=802</guid>
 
-					<description><![CDATA[<hr />
-
-QUINTESSENTIAL MINIMALIST PIECE- MVMT’s pioneer flagship design. The Classic’s clean 45MM dial and simple sophistication have become an icon.]]></description>
+					<description><![CDATA[Health Labs CurcuminMe is a product that is the source of the specially patented Curcugen™ formula, which allowed for obtaining a high concentration of curcuminoids in the company of natural essential oils.]]></description>
 										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
 <p><img class=" wp-image-521 alignleft" src="https://phamnguyenthanhtrung.github.io/mywordpress/wp-content/uploads/2022/10/00_product-content-1.jpg" alt="" width="168" height="222" />This lightweight jacket is fitted with a high stand collar, full zip fastening, and secure hand pockets. Complete with the C.P. Company Lens detail at the sleeve pocket.</p>
 <p>Crafted in Chrome-R, a fully recycled version of our foundation woven multifilament nylon, offering a near impermeable barrier against water and wind with a sustainable construction. Developed exclusively for garment dyeing, Chrome-R resists the pigmenting process, which generates lighter and more vibrant tones in the finished garment.</p>
@@ -60,8 +58,54 @@ QUINTESSENTIAL MINIMALIST PIECE- MVMT’s pioneer flagship design. The Classic�
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/curcuminme-60-caps-probiotic-for-women/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Classic Watch</title>
+		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/</link>
+					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/#comments</comments>
+		
+		<dc:creator><![CDATA[PhamNguyenThanhTrung]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 18:40:11 +0000</pubDate>
+				<guid isPermaLink="false">https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=product&#038;p=795</guid>
+
+					<description><![CDATA[<hr />
+
+QUINTESSENTIAL MINIMALIST PIECE- MVMT’s pioneer flagship design. The Classic’s clean 45MM dial and simple sophistication have become an icon.]]></description>
+										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
+<p><img loading="lazy" class=" wp-image-521 alignleft" src="https://phamnguyenthanhtrung.github.io/mywordpress/wp-content/uploads/2022/10/00_product-content-1.jpg" alt="" width="168" height="222" />This lightweight jacket is fitted with a high stand collar, full zip fastening, and secure hand pockets. Complete with the C.P. Company Lens detail at the sleeve pocket.</p>
+<p>Crafted in Chrome-R, a fully recycled version of our foundation woven multifilament nylon, offering a near impermeable barrier against water and wind with a sustainable construction. Developed exclusively for garment dyeing, Chrome-R resists the pigmenting process, which generates lighter and more vibrant tones in the finished garment.</p>
+<div class="col-sm-4 col-xs-6">
+<p>&nbsp;</p>
+</div>
+<div class="col-sm-4">
+<h5>CARE</h5>
+<ul>
+<li>Wash max 30°C – Mild process</li>
+<li>Do not bleach</li>
+<li>Do not tumble dry</li>
+<li>Ironing maximum temperature 110°C – without steam</li>
+<li>Do not dry clean</li>
+<li>Line dry</li>
+<li>Wash inside out</li>
+<li>Remove detachable accessories before washing</li>
+</ul>
+<h5>COMPOSITION</h5>
+<ul>
+<li>External fabric: 100% Polyamide / Nylon</li>
+<li>Lining: 100% Polyamide / Nylon</li>
+<li>Secondary fabric: 100% Polyamide / Nylon</li>
+<li>Secondary lining: 100% Polyamide / Nylon</li>
+</ul>
+</div>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
@@ -427,56 +471,6 @@ The PAUL HEWITT BREAKWATER men’s watch combines a sporty dynamic with classic 
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/watch-break-black/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Minimum Canvas Shoes2.5</title>
-		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/minimum-canvas-shoes2-5/</link>
-					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/minimum-canvas-shoes2-5/#respond</comments>
-		
-		<dc:creator><![CDATA[PhamNguyenThanhTrung]]></dc:creator>
-		<pubDate>Mon, 10 Oct 2022 17:31:35 +0000</pubDate>
-				<guid isPermaLink="false">https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=product&#038;p=740</guid>
-
-					<description><![CDATA[<hr />
-
-The North Face Men’s Homesafe FZ Fleece Hoodie is perfect for chilly early mornings or evenings around the campfire.
-
-<hr />
-
-&#160;]]></description>
-										<content:encoded><![CDATA[<div class="woocommerce-product-details__short-description">
-<p><img loading="lazy" class=" wp-image-521 alignleft" src="https://phamnguyenthanhtrung.github.io/mywordpress/wp-content/uploads/2022/10/00_product-content-1.jpg" alt="" width="168" height="222" />This lightweight jacket is fitted with a high stand collar, full zip fastening, and secure hand pockets. Complete with the C.P. Company Lens detail at the sleeve pocket.</p>
-<p>Crafted in Chrome-R, a fully recycled version of our foundation woven multifilament nylon, offering a near impermeable barrier against water and wind with a sustainable construction. Developed exclusively for garment dyeing, Chrome-R resists the pigmenting process, which generates lighter and more vibrant tones in the finished garment.</p>
-<div class="col-sm-4 col-xs-6">
-<p>&nbsp;</p>
-</div>
-<div class="col-sm-4">
-<h5>CARE</h5>
-<ul>
-<li>Wash max 30°C – Mild process</li>
-<li>Do not bleach</li>
-<li>Do not tumble dry</li>
-<li>Ironing maximum temperature 110°C – without steam</li>
-<li>Do not dry clean</li>
-<li>Line dry</li>
-<li>Wash inside out</li>
-<li>Remove detachable accessories before washing</li>
-</ul>
-<h5>COMPOSITION</h5>
-<ul>
-<li>External fabric: 100% Polyamide / Nylon</li>
-<li>Lining: 100% Polyamide / Nylon</li>
-<li>Secondary fabric: 100% Polyamide / Nylon</li>
-<li>Secondary lining: 100% Polyamide / Nylon</li>
-</ul>
-</div>
-</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/minimum-canvas-shoes2-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

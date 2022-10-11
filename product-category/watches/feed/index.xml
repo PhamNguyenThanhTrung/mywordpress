@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/watches/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamnguyenthanhtrung.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Mon, 10 Oct 2022 18:43:47 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 11 Oct 2022 00:45:39 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 	<item>
 		<title>Classic Watch</title>
 		<link>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/</link>
-					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/#respond</comments>
+					<comments>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/#comments</comments>
 		
 		<dc:creator><![CDATA[PhamNguyenThanhTrung]]></dc:creator>
 		<pubDate>Mon, 10 Oct 2022 18:40:11 +0000</pubDate>
@@ -61,7 +61,7 @@ QUINTESSENTIAL MINIMALIST PIECE- MVMTâ€™s pioneer flagship design. The Classicâ€
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://phamnguyenthanhtrung.github.io/mywordpress/product/classic-watch/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
