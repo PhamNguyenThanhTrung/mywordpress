@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamnguyenthanhtrung.github.io/mywordpress</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 18 Oct 2022 16:06:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 24 Oct 2022 23:05:05 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -315,10 +315,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -328,10 +327,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -399,10 +397,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open far fa-address-card"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -412,10 +409,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1564,10 +1560,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -1577,10 +1572,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1841,10 +1835,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -1854,10 +1847,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1924,10 +1916,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open far fa-address-card"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
@@ -1937,10 +1928,9 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-495"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-480"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-486"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-477"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-500"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-504"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-965"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -3284,35 +3274,23 @@
 				<div class="elementor-element elementor-element-0eda9bf elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="0eda9bf" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-0eda9bf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-127"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/trang-chu/" class="elementor-item">trang chủ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=elementor_library&#038;p=140" class="elementor-item">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/home1/" class="elementor-item">home1</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=elementor_library&#038;p=457" class="elementor-item">demo2</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
+				<ul id="menu-1-0eda9bf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-537"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/" class="elementor-item">Homepage</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-127"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/trang-chu/" class="elementor-item">trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-505"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item">Tài Khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item">Thanh Toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-537"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/" class="elementor-item">Homepage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item">Contact US</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-0eda9bf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-127"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/trang-chu/" class="elementor-item" tabindex="-1">trang chủ</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=elementor_library&#038;p=140" class="elementor-item" tabindex="-1">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-445"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/home1/" class="elementor-item" tabindex="-1">home1</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/?post_type=elementor_library&#038;p=457" class="elementor-item" tabindex="-1">demo2</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/shop/" class="elementor-item" tabindex="-1">Shop</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
+				<ul id="menu-2-0eda9bf" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-537"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/" class="elementor-item" tabindex="-1">Homepage</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-496"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cua-hang/" class="elementor-item" tabindex="-1">Cửa hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-501"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/gio-hang/" class="elementor-item" tabindex="-1">Giỏ hàng</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-127"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/trang-chu/" class="elementor-item" tabindex="-1">trang chủ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-481"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/cart/" class="elementor-item" tabindex="-1">Cart</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/my-account/" class="elementor-item" tabindex="-1">My account</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-505"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/tai-khoan/" class="elementor-item" tabindex="-1">Tài Khoản</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/thanh-toan/" class="elementor-item" tabindex="-1">Thanh Toán</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-537"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/" class="elementor-item" tabindex="-1">Homepage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-966"><a href="https://phamnguyenthanhtrung.github.io/mywordpress/contact-us/" class="elementor-item" tabindex="-1">Contact US</a></li>
 </ul>			</nav>
 				</div>
 				</div>
